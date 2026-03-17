@@ -1,0 +1,5 @@
+{
+  "name": "ElecTrack",
+  "description": "Electrical business job tracking app similar to CompanyCam with Google Drive and Calendar integration.",
+  "requestFramePermissions": ["microphone", "camera"]
+}
